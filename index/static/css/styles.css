@@ -9,7 +9,7 @@ Version: 1.0
 /* start global classes */
 :root {
   /* body bg color */
-  --bodyColor: #888888;
+  --bodyColor: #ffffff;
 
   /* primary brand color */
   --primary-color: #ffffff;
@@ -21,7 +21,7 @@ Version: 1.0
   --brand-color: #1f2be3;
 
   /* grey color */
-  --grey: #c7c7c7;
+  --grey: #f5f5f5;
 
   /* border radius */
   --border-radius: 12px;
